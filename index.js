@@ -1,4 +1,4 @@
 //Your code here
 function justInvoke(fn) {
-  fn.this
+  this.fn
 }
